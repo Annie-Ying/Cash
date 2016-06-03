@@ -1,0 +1,20 @@
+package com.orilore.why.test3;
+
+class CashCard {
+	String number;
+	int balance;
+	int bonus;
+	CashCard(String number,int balance,int bonus){
+		this.number = number;
+		this.balance = balance;
+		this.bonus = bonus;
+	}
+	public void store1(int nextInt) {
+		// TODO Auto-generated method stub
+		
+	}
+	public void store(int nextInt) {
+		// TODO Auto-generated method stub
+		
+	}
+}
